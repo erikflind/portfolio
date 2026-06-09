@@ -99,5 +99,5 @@ Course-based repositories demonstrating core computer science and engineering co
   Collection of algorithmic problems covering data structures and dynamic programming, supported by a custom CLI for source file scaffolding and README generation  
 
 - **Advent of Code 2025**  
-  [https://github.com/erikflind/advent-of-code-2025/tree/main]()  
+  https://github.com/erikflind/advent-of-code-2025  
   Programming challenges implemented in Python
