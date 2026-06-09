@@ -32,7 +32,7 @@ Distributed system for centralized dental appointment booking.
 - Developed real-time interfaces for patients and dentists using Vue.js
 
 ### SEManager (2023)
-🔗 [Repository](https://github.com/michalspano/SEManager) | 🌐 [Project Page](https://michalspano.com/SEManager/)
+🔗 [Repository](https://github.com/michalspano/SEManager) &nbsp;| 🌐 [Project Page](https://michalspano.com/SEManager/)
 
 
 **Tech:** Node.js, Express, MongoDB, Vue 3, Bootstrap 5, JWT, Axios  
@@ -45,7 +45,7 @@ Interactive web application for planning and visualizing academic study paths.
 - Contributed across full stack, including UI design, API development, and documentation  
 
 ### Terminarium (2023)
-🔗 [Repository](https://github.com/michalspano/terminarium)
+🔗 [Repository](https://github.com/michalspano/terminarium) &nbsp;| 🎥 [Project Demo](https://www.youtube.com/watch?v=oMgfVUPOEtc)
 
 **Tech:** Node.js, Vue.js, MQTT, Arduino (C/C++), Firebase  
 
@@ -62,12 +62,12 @@ IoT-based system for real-time terrarium monitoring.
 🔗 [Repository](https://github.com/Q-REST-at/Q-REST-at/tree/main) | 📄 [Full Paper](https://gupea.ub.gu.se/items/ff39a392-49bb-4810-bbfa-fa1679daad72)
 
 
-**Tech:** Python, R, LLMs (Mistral), Quantization (AWQ, GPTQ, AQLM), Scientific Cloud Computing  
+**Tech:** Python, R, LLMs (Mistral), Quantization (AWQ, GPTQ, AQLM)  
 
 Investigated the feasibility of using quantized large language models for aligning software requirements and test cases.
 
 - Extended an existing REST alignment tool (REST-at) to support quantized models, resulting in `Q-REST-at`  
-- Designed and executed experiments on a scientific cloud computing platform across multiple LLM configurations  
+- Designed and executed experiments across multiple LLM configurations on `Alvis`, a GPU-accelerated HPC platform for AI and machine learning research  
 - Evaluated trade-offs between model efficiency, hardware requirements, and alignment accuracy  
 - Developed a statistical analysis pipeline in Python and R  
 - Contributed to actionable guidelines for adopting lightweight LLMs in software engineering workflows  
